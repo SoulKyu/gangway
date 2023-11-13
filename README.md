@@ -5,6 +5,9 @@ gangway
 
 # VMware has ended active development of this project, this repository will no longer be updated.
 
+> **_NOTE:_**  You can find an update-to-date fork to Gangway : [Numberly - Gangway](https://github.com/numberly/gangway)
+
+
 _(noun): An opening in the bulwark of the ship to allow passengers to board or leave the ship._
 
 An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
